@@ -1,2 +1,2 @@
 # Teensy-5-bit-LED-Up-Down-Counter-
-Time to make a 5 bit Up-Down counter with a God Forsaken Teensy 3.2 Board
+This Program Illustrates the totally irrelevant feture of a Teensy 3.2 board to be used as a 5 bit Bijnary Up-And Down counter using a couple of totally generic, chinese made LEDs and some push buttons probably made by a child worker for pennies
