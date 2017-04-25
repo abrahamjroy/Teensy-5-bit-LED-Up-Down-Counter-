@@ -1,5 +1,5 @@
 // PROGRAM TO GIVE 5-BIT UP DOWN COUNTER 
-int led[5];
+int led[5];//
 int buttonup = 11;
 int buttondn = 12;
 int presses = 0;
